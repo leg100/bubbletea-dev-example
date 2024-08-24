@@ -1,0 +1,25 @@
+(tea.WindowSizeMsg) {
+ Width: (int) 127,
+ Height: (int) 30
+}
+(tea.KeyMsg) d
+(tea.KeyMsg) u
+(tea.KeyMsg) m
+(tea.KeyMsg) p
+(tea.KeyMsg)  
+(tea.KeyMsg) t
+(tea.KeyMsg) h
+(tea.KeyMsg) e
+(tea.KeyMsg) s
+(tea.KeyMsg) e
+(tea.KeyMsg)  
+(tea.KeyMsg) m
+(tea.KeyMsg) e
+(tea.KeyMsg) s
+(tea.KeyMsg) s
+(tea.KeyMsg) a
+(tea.KeyMsg) g
+(tea.KeyMsg) e
+(tea.KeyMsg) s
+(tea.KeyMsg) enter
+(tea.KeyMsg) ctrl+c
